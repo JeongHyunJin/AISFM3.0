@@ -21,4 +21,4 @@ Requirements:
 
 ## Citation
 
-If you use the AISFM data in your research, please consider citing our paper and this software repository.
+If you use the AISFM data in your research, please consider citing our paper.
