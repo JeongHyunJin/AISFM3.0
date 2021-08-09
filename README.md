@@ -44,3 +44,8 @@ This repository contains several notebooks to understand and use the AISFMs. Mor
 If you use the AISFMs in your research, please consider citing our paper.
 
     TBD
+
+<br/>
+
+* AISFMs (ver. 1) : Kim, Park, Lee et al. (2019)
+* AISFMs (ver. 2) : Jeong et al. (2020)
