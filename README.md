@@ -8,7 +8,7 @@ AI-generated Solar Farside Magnetograms (AISFMs)
 
 ## Contents
 
-This repository contains several notebooks to understand and use the AISFMs. More detailed information of the AISFMs can be found in our paper.
+This repository contains several python codes to understand and use the AISFMs. More detailed information of the AISFMs can be found in our paper.
 
 <br/>
 
