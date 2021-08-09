@@ -14,7 +14,7 @@ This repository contains several notebooks to understand and use the AISFMs. Mor
 
 ### Visualizations
 
-* The <span color="DarkOrange">Visualizations_of_AISFMs.ipynb</span> notebook is 
+* The <span color="orange">Visualizations_of_AISFMs.ipynb</span> notebook is 
 
 <br/>
 
