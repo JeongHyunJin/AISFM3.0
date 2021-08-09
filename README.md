@@ -29,7 +29,7 @@ This repository contains several notebooks to understand AISFM data.
 
 <br/>
 
-### Reprojection
+### Reprojections
 
 * The Reprojections_of_AISFMs.ipynb notebook shows 
 
