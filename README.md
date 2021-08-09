@@ -41,7 +41,7 @@ This repository contains several notebooks to understand and use the AISFMs. Mor
 
 ## Citation
 
-If you use the AISFMs in your research, please consider citing our paper.
+If you use the AISFMs (ver. 3) in your research, please consider citing our paper.
 
     TBD
 
