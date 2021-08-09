@@ -14,26 +14,26 @@ This repository contains several notebooks to understand and use the AISFMs. Mor
 
 ### Visualizations
 
-* The <span color="red">Visualizations_of_AISFMs.ipynb</span> notebook is 
+* The *Visualizations_of_AISFMs.ipynb* notebook is 
 
 <br/>
 
 ### Coordinates
 
-* The Coordinates_of_AISFMs.ipynb notebook is 
+* The *Coordinates_of_AISFMs.ipynb* notebook is 
 
 
 <br/>
 
 ### Reprojections
 
-* The Reprojections_of_AISFMs.ipynb notebook is 
+* The *Reprojections_of_AISFMs.ipynb* notebook is 
 
 <br/>
 
 ### Observations
 
-* The Observations_of_AISFMs.ipynb notebook is 
+* The *Observations_of_AISFMs.ipynb* notebook is 
 
 <br/>
 
