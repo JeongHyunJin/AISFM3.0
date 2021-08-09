@@ -8,7 +8,7 @@ AI-generated Solar Farside Magnetograms (AISFMs)
 
 ## Contents
 
-This repository contains several notebooks to understand AISFM data.
+This repository contains several notebooks to understand and use the AISFMs. More detailed information of the AISFMs can be found in our paper.
 
 <br/>
 
@@ -31,6 +31,11 @@ This repository contains several notebooks to understand AISFM data.
 
 <br/>
 
+### Observations
+
+* The Observations_of_AISFMs.ipynb notebook is 
+
+<br/>
 
 ------------
 
