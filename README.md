@@ -18,6 +18,7 @@ This repository contains several notebooks to understand AISFM data.
 
 ### Visualizations
 
+* The Visualizing_AISFMs.ipynb notebook shows 
 
 <br/>
 
