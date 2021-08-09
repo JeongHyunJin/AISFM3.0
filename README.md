@@ -49,5 +49,5 @@ If you use the AISFMs in your research, please consider citing our paper.
 
 <br/>
 
-* AISFMs (ver. 1) : Kim, Park, Lee et al. (2019)
+* AISFMs (ver. 1) : [Kim, Park, Lee et al. (2019)]("https://www.nature.com/articles/s41550-019-0711-5")
 * AISFMs (ver. 2) : Jeong et al. (2020)
