@@ -18,14 +18,23 @@ This repository contains several notebooks to understand AISFM data.
 
 ### Visualizations
 
-* The Visualizing_AISFMs.ipynb notebook shows 
+* The Visualizations_of_AISFMs.ipynb notebook shows 
 
 <br/>
 
 ### Coordinates
 
+* The Coordinates_of_AISFMs.ipynb notebook shows 
+
 
 <br/>
+
+### Reprojection
+
+* The Reprojections_of_AISFMs.ipynb notebook shows 
+
+<br/>
+
 
 ------------
 
