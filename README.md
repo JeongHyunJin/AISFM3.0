@@ -42,6 +42,15 @@ This repository contains several python codes to understand the AISFMs. More det
 
 ------------
 
+## Model
+
+We used pix2pixCC model to generate AISFMs from STEREO EUV observations.
+
+
+<br/>
+
+------------
+
 ## Citation
 
 If you use the AISFMs in your research, please consider citing our paper.
