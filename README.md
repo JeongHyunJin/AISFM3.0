@@ -54,7 +54,7 @@ We used pix2pixCC model to generate AISFMs from STEREO EUV observations.
 
 <br/>
 
-*pix2pixCC* code: https://github.com/JeongHyunJin/pix2pixCC
+- *pix2pixCC* code: https://github.com/JeongHyunJin/pix2pixCC
 
 >
 
