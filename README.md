@@ -63,7 +63,6 @@ We used pix2pixCC model to generate AISFMs from STEREO EUV observations.
       --input_dir_train '../Datasets/Train_data/Train_input' \
       --target_dir_train '../Datasets/Train_data/Train_output' \
       --n_epochs 120 --save_freq 10000 --display_freq 5000
-
 >
 
       python pix2pixCC_Test.py \
