@@ -6,6 +6,9 @@ AI-generated Solar Farside Magnetograms (AISFMs)
 
 ------------
 
+<br/>
+
+
 ## Contents
 
 This repository contains several python codes to understand the AISFMs. More detailed information of the AISFMs can be found in our paper.
@@ -41,6 +44,9 @@ This repository contains several python codes to understand the AISFMs. More det
 <br/>
 
 ------------
+
+<br/>
+
 
 ## Model
 
