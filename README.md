@@ -49,7 +49,7 @@ We used pix2pixCC model to generate AISFMs from STEREO EUV observations.
 * *pix2pixCC* : https://github.com/JeongHyunJin/pix2pixCC
 
       python pix2pixCC_Train.py \
-      --dataset_name 'Jeong2021' --gpu_ids '0,1' \
+      --dataset_name 'Jeong2021_AISFMs' --gpu_ids '0,1' \
       --data_format_input 'fits' --data_format_target 'fits' \
       --input_ch 7 --target_ch 1 --batch_size 2 \
       --n_downsample 5 --n_CC 4 --n_gf 42 --n_df 42 \
