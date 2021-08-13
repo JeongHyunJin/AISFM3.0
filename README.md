@@ -17,28 +17,28 @@ This repository contains several python codes to understand the AISFMs. More det
 
 ### Visualizations
 
-* The *Visualizations_of_AISFMs.ipynb* notebook is
+* The *Visualizations_of_AISFMs.ipynb* is
 > To be uploaded
 
 <br/>
 
 ### Coordinates
 
-* The *Coordinates_of_AISFMs.ipynb* notebook is 
+* The *Coordinates_of_AISFMs.ipynb* is 
 > To be uploaded
 
 <br/>
 
 ### Reprojections
 
-* The *Reprojections_of_AISFMs.ipynb* notebook is 
+* The *Reprojections_of_AISFMs.ipynb* is 
 > To be uploaded
 
 <br/>
 
 ### Observations
 
-* The *Observations_of_AISFMs.ipynb* notebook is 
+* The *Observations_of_AISFMs.ipynb* is 
 > To be uploaded
 
 <br/>
