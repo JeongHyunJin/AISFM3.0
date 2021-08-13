@@ -52,7 +52,9 @@ This repository contains several python codes to understand the AISFMs. More det
 
 We used pix2pixCC model to generate AISFMs from STEREO EUV observations.
 
-* *pix2pixCC* code: https://github.com/JeongHyunJin/pix2pixCC
+<br/>
+
+*pix2pixCC* code: https://github.com/JeongHyunJin/pix2pixCC
 
 >
 
