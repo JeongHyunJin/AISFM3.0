@@ -59,7 +59,7 @@ The following shows how to download the AISFMs from the [KDC for SDO](http://sdo
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/68056295/130038538-357872a8-88ad-4823-8335-aa59086f0ce1.png" width="65%" height="60%"></center>
+<img src="https://user-images.githubusercontent.com/68056295/130039580-32166a3e-b383-489f-82b2-faa023551dcc.png" width="65%" height="60%"></center>
 
 <br/>
 
