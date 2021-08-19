@@ -53,6 +53,13 @@ This repository contains several python codes to understand the AISFMs. More det
 
 <br/>
 
+#### STEREO data with poor quality
+
+* The *poor_quality.ipynb* is 
+> To be uploaded
+
+<br/>
+
 ------------
 
 <br/>
