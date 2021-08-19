@@ -36,7 +36,7 @@ page.
 * The <code>*Reprojections_of_AISFMs.ipynb*</code> demonstrates how you can reproject AISFMs to the view from different observers. 
 <br/>
 
-* The <code>*Observations_of_AISFMs.ipynb*</code> shows how to check model input data from the AISFM data.
+* The <code>*Observations_of_AISFMs.ipynb*</code> shows how to check model input data from the AISFM.
 <br/>
 
 * The <code>*poor_quality.ipynb*</code> shows some examples of STEREO/EUVI images with poor quality.  
