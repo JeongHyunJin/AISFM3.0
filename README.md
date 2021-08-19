@@ -66,8 +66,6 @@ We used *pix2pixCC* model to generate the AISFMs (ver. 3), and the code is avail
 
 We trained the model as below:
 
-* Training options
-
       python pix2pixCC_Train.py \
       --dataset_name 'Jeong2021_AISFMs' \
       --data_format_input 'fits' --data_format_target 'fits' \
@@ -82,9 +80,6 @@ We trained the model as below:
 
 We generate AISFMs by the tranined model as below:
 
->
-* Generating options
-
       python pix2pixCC_Test.py \
       --dataset_name 'Jeong2021_AISFMs' \
       --data_format_input 'fits' --data_format_target 'fits' \
@@ -95,7 +90,7 @@ We generate AISFMs by the tranined model as below:
 
 <br/>
 
-Before the training and generating, our datasets are normalized from -1 to 1.
+Before the training and generation, our datasets are normalized from -1 to 1.
 
 <br/>
 
