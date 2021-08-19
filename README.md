@@ -51,6 +51,7 @@ page.
 
 ## Data Export 
 
+The following shows how to download the AISFMs from the [KDC for SDO](http://sdo.kasi.re.kr/) page.
 
 <br/>
 
