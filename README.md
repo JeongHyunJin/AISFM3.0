@@ -69,7 +69,7 @@ page.
 
 ## Deep Learning Code
 
-We used pix2pixCC model to generate the AISFMs (ver. 3).
+We used *pix2pixCC* model to generate the AISFMs (ver. 3).
 
 <br/>
 
