@@ -27,7 +27,7 @@ page.
 
 <br/>
 
-* The ^^ *Visualizations_of_AISFMs.ipynb* ^^ opens data stored in an AISFM and displays it to the screen. 
+* The ^^Visualizations_of_AISFMs.ipynb^^ opens data stored in an AISFM and displays it to the screen. 
 <br/>
 
 * The *Coordinates_of_AISFMs.ipynb* contains how to get the observer location from the AISFM data and interpret it.
