@@ -73,7 +73,7 @@ We used pix2pixCC model to generate the AISFMs (ver. 3).
 
 <br/>
 
-- *pix2pixCC* code: https://github.com/JeongHyunJin/pix2pixCC
+     *pix2pixCC* code: https://github.com/JeongHyunJin/pix2pixCC
 
 * Training options
 >
@@ -88,8 +88,8 @@ We used pix2pixCC model to generate the AISFMs (ver. 3).
     --target_dir_train '../Datasets/Train_data/Train_output' \
     --n_epochs 150 --save_freq 10000 --display_freq 5000
 >
-
 * Generating options
+>
     python pix2pixCC_Test.py \
     --dataset_name 'Jeong2021_AISFMs' --gpu_ids '0' \
     --data_format_input 'fits' --data_format_target 'fits' \
