@@ -6,7 +6,8 @@ The solar farside magnetograms are data corresponding to the line-of-sight Extre
 The orbit of STEREO A & B is at a distance of about 1 AU, and drift away from the Earth at a rate of about 22° per year in opposite directions. [(Where is STEREO?)](https://stereo-ssc.nascom.nasa.gov/cgi-bin/make_where_gif) 
 The data products are produced by Sun and Space Weather Laboratory (SSWL) of Kyung Hee University (KHU) and released by Korea Astronomy and Space Science Institute (KASI).
 The 3rd version of the AISFMs is the first publicly available data, and they can be downloaded from the [Korean Data Center (KDC) for SDO](http://sdo.kasi.re.kr/ai_generated.aspx)
-page.</div>
+page.
+</div>
     
 <br/>
 
