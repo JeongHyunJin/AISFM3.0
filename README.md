@@ -21,7 +21,9 @@ page.
 
 ## Contents
 
-This repository contains several python codes to understand the AISFMs. More detailed information of the AISFMs can be found in our publications.
+<p align="justify">
+     This repository contains several python codes to understand the AISFMs. More detailed information of the AISFMs can be found in our publications.
+</p>
 
 <br/>
 
