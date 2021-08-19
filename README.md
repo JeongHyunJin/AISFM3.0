@@ -29,7 +29,7 @@ page.
 
 #### Visualizations
 
-* The *Visualizations_of_AISFMs.ipynb* is
+* The *Visualizations_of_AISFMs.ipynb* contains 
 > To be uploaded
 
 <br/>
@@ -50,7 +50,7 @@ page.
 
 #### Observations
 
-* The *Observations_of_AISFMs.ipynb* is 
+* The *Observations_of_AISFMs.ipynb* shows  
 > To be uploaded
 
 <br/>
@@ -75,6 +75,7 @@ We used pix2pixCC model to generate the AISFMs (ver. 3).
 
 - *pix2pixCC* code: https://github.com/JeongHyunJin/pix2pixCC
 
+* Training options
 >
 
     python pix2pixCC_Train.py \
@@ -88,6 +89,7 @@ We used pix2pixCC model to generate the AISFMs (ver. 3).
     --n_epochs 150 --save_freq 10000 --display_freq 5000
 >
 
+* Generating options
     python pix2pixCC_Test.py \
     --dataset_name 'Jeong2021_AISFMs' --gpu_ids '0' \
     --data_format_input 'fits' --data_format_target 'fits' \
