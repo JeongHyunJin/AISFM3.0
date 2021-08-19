@@ -39,7 +39,7 @@ page.
 * The <code>*Observations_of_AISFMs.ipynb*</code> shows how to check model input data from the AISFM.
 <br/>
 
-* The <code>*poor_quality.ipynb*</code> shows some examples of STEREO/EUVI images with poor quality.  
+* The <code>*STEREO_data_with_poor_quality.ipynb*</code> shows some examples of STEREO/EUVI images with poor quality.  
 <br/>
 
 <br/>
