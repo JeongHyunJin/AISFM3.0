@@ -30,16 +30,16 @@ page.
 * The <code>*Visualizations_of_AISFMs.ipynb*</code> opens data stored in an AISFM and displays it to the screen. 
 <br/>
 
-* The *Coordinates_of_AISFMs.ipynb* contains how to get the observer location from the AISFM data and interpret it.
+* The <code>*Coordinates_of_AISFMs.ipynb*</code> contains how to get the observer location from the AISFM data and interpret it.
 <br/>
 
-* The *Reprojections_of_AISFMs.ipynb* demonstrates how you can reproject AISFMs to the view from different observers. 
+* The <code>*Reprojections_of_AISFMs.ipynb*</code> demonstrates how you can reproject AISFMs to the view from different observers. 
 <br/>
 
-* The *Observations_of_AISFMs.ipynb* shows how to check model input data from the AISFM data.
+* The <code>*Observations_of_AISFMs.ipynb*</code> shows how to check model input data from the AISFM data.
 <br/>
 
-* The *poor_quality.ipynb* shows some examples of STEREO/EUVI images with poor quality.  
+* The <code>*poor_quality.ipynb*</code> shows some examples of STEREO/EUVI images with poor quality.  
 <br/>
 
 <br/>
