@@ -85,7 +85,7 @@ We generate AISFMs by the tranined model as below:
 * Generating options
 
       python pix2pixCC_Test.py \
-      --dataset_name 'Jeong2021_AISFMs' --gpu_ids '0' \
+      --dataset_name 'Jeong2021_AISFMs' \
       --data_format_input 'fits' --data_format_target 'fits' \
       --input_ch 7 --target_ch 1 \
       --n_downsample 5 --n_gf 40 \
