@@ -61,11 +61,9 @@ page.
 
 ## Deep Learning Code
 
-We used *pix2pixCC* model to generate the AISFMs (ver. 3).
+We used *pix2pixCC* model to generate the AISFMs (ver. 3), and the code is available at https://github.com/JeongHyunJin/pix2pixCC. <br/>
 
-<br/>
-
-The *pix2pixCC* code is available at https://github.com/JeongHyunJin/pix2pixCC. And we trained the model as below:
+We trained the model as below:
 
 * Training options
 
