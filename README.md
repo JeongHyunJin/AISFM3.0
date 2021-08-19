@@ -48,7 +48,7 @@ This repository contains several python codes to understand the AISFMs. More det
 <br/>
 
 
-## Model
+## Deep Learning Code
 
 We used pix2pixCC model to generate the AISFMs (ver. 3).
 
