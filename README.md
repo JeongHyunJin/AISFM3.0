@@ -73,7 +73,7 @@ We used *pix2pixCC* model to generate the AISFMs (ver. 3).
 
 <br/>
 
-*pix2pixCC* code: https://github.com/JeongHyunJin/pix2pixCC
+The *pix2pixCC* code is available at https://github.com/JeongHyunJin/pix2pixCC. And we trained the model as below:
 
 * Training options
 
@@ -87,6 +87,10 @@ We used *pix2pixCC* model to generate the AISFMs (ver. 3).
       --target_dir_train '../Datasets/Train_data/Train_output' \
       --n_epochs 150 --save_freq 10000 --display_freq 5000
 
+<br/>
+
+We generate AISFMs by the tranined model as below:
+
 >
 * Generating options
 
@@ -99,6 +103,11 @@ We used *pix2pixCC* model to generate the AISFMs (ver. 3).
       --iteration 400000
 
 <br/>
+
+Before the training and generating, our datasets are normalized from -1 to 1.
+
+<br/>
+
 
 ------------
 
