@@ -54,7 +54,7 @@ page.
 The following shows how to download the AISFMs from the [KDC for SDO](http://sdo.kasi.re.kr/) page.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68056295/130034571-9a51fd51-10fe-491e-9a9e-ed7ccc4013b6.png" width="90%" height="90%"></center>
+<img src="https://user-images.githubusercontent.com/68056295/130034571-9a51fd51-10fe-491e-9a9e-ed7ccc4013b6.png" width="50%" height="50%"></center>
 </p>
 
 
