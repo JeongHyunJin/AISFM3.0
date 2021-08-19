@@ -73,7 +73,7 @@ We used pix2pixCC model to generate the AISFMs (ver. 3).
 
 <br/>
 
-     *pix2pixCC* code: https://github.com/JeongHyunJin/pix2pixCC
+pix2pixCC* code: https://github.com/JeongHyunJin/pix2pixCC
 
 * Training options
 >
