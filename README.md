@@ -10,7 +10,7 @@ page.
 </p>
 
 * [Where is STEREO?](https://stereo-ssc.nascom.nasa.gov/cgi-bin/make_where_gif) 
-* [KDC for SDO](http://sdo.kasi.re.kr/ai_generated.aspx)
+* [KDC for SDO](http://sdo.kasi.re.kr/)
 
 <br/>
 
