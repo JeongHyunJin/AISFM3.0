@@ -5,11 +5,12 @@
      The solar farside magnetograms are data corresponding to the line-of-sight Extreme UltraViolet (EUV) observations of the STEREO Ahead (A) and Behind (B).
      The orbit of STEREO A & B is at a distance of about 1 AU, and drift away from the Earth at a rate of about 22° per year in opposite directions.
      The data products are produced by Sun and Space Weather Laboratory (SSWL) of Kyung Hee University (KHU) and released by Korea Astronomy and Space Science Institute (KASI).
-     The 3rd version of the AISFMs is the first released data, and you can download the AISFMs 3.0 at Korean Data Center (KDC) for SDO page.
+     The 3rd version of the AISFMs is the first released data.
+     The AISFMs 3.0 are publicaly available at Korean Data Center (KDC) for SDO page.
 </p>
 
-* [Where is STEREO?](https://stereo-ssc.nascom.nasa.gov/cgi-bin/make_where_gif) 
 * [KDC for SDO](http://sdo.kasi.re.kr/)
+* [Where is STEREO?](https://stereo-ssc.nascom.nasa.gov/cgi-bin/make_where_gif) 
 
 <br/>
 
@@ -21,7 +22,7 @@
 ## Contents
 
 <p align="justify">
-     This repository contains several python codes to understand the AISFMs. More detailed information of the AISFMs can be found in our publications.
+     This repository contains several python codes to understand the AISFMs. More detailed information of the AISFMs 3.0 can be found in our publications.
 </p>
 
 <br/>
@@ -67,7 +68,7 @@ The following shows how to download the AISFMs from the [KDC for SDO](http://sdo
 
 ## Citation
 
-If you use the AISFMs in your research, please consider citing our paper.
+When you use our AISFMs in your research, please consider citing our paper.
 
 * AISFMs 3.0: Jeong et al. (2022)
 
@@ -116,6 +117,5 @@ We generate AISFMs by the tranined model as below:
 
 <br/>
 
-Before the training and generation, our datasets are normalized from -1 to 1.
 
 <br/>
