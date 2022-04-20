@@ -46,11 +46,11 @@ When you use our AISFMs in your study, please consider citing our paper.
 
 <br/>
 
-
 ## Example Gallery
 
 <p align="justify">
-     This repository contains several codes to understand the AISFM data. The [Sunpy 3.1](https://sunpy.org/) module is used for the example codes.
+     This repository contains several codes to understand the AISFM data. 
+     The Sunpy 3.1 (https://sunpy.org/) module is used for the example codes.
 </p>
 
 <br/>
