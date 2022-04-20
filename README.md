@@ -15,6 +15,7 @@
      The data products are produced by Sun and Space Weather Laboratory (SSWL) at Kyung Hee University (KHU) and released by Korea Astronomy and Space Science Institute (KASI).
      The AISFMs 3.0 are publicaly available at Korean Data Center (KDC) for SDO page.
 </p>
+<br/>
 
 * [KDC for SDO](http://sdo.kasi.re.kr/)
 * [Where is STEREO?](https://stereo-ssc.nascom.nasa.gov/cgi-bin/make_where_gif) 
@@ -26,7 +27,7 @@
 <br/>
 
 
-## Contents
+## Example Gallery
 
 <p align="justify">
      This repository contains several codes to understand the AISFM data. The [Sunpy 3.1](https://sunpy.org/) module is used for the example codes.
@@ -56,7 +57,7 @@
 <br/>
 
 
-## Data Export 
+## Acquirring Data 
 
 The following shows how to download the AISFMs from the [KDC for SDO](http://sdo.kasi.re.kr/) website.
 
@@ -67,25 +68,6 @@ The following shows how to download the AISFMs from the [KDC for SDO](http://sdo
 <br/>
 
 <img src="https://user-images.githubusercontent.com/68056295/130039580-32166a3e-b383-489f-82b2-faa023551dcc.png" width="65%" height="60%"></center>
-
-<br/>
-
-
-------------
-
-## Citation
-
-When you use our AISFMs in your research, please consider citing our paper.
-
-* AISFMs 3.0: Jeong et al. (2022)
-
-      TBD
-
-<br/>
-
-* AISFMs 2.0: [Jeong et al. (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/abc255), "Solar Coronal Magnetic Field Extrapolation from Synchronic Data with AI-generated Farside", The Astrophysical Journal Letters, Volume 903, Issue 2, id.L25, 9 pp.
-* AISFMs 3.0: [Kim, Park, Lee et al. (2019)](https://www.nature.com/articles/s41550-019-0711-5), "Solar Farside Magnetograms from Deep Learning Analysis of STEREO/EUVI Data", Nature Astronomy, Volume 3, p. 397-400
-
 
 <br/>
 
@@ -124,5 +106,24 @@ We generate AISFMs by the tranined model as below:
 
 <br/>
 
+------------
+
+<br/>
+
+## Citation
+
+When you use our AISFMs in your research, please consider citing our paper.
+
+* AISFMs 3.0: Jeong et al. (2022)
+
+      TBD
+
+<br/>
+
+* AISFMs 2.0: [Jeong et al. (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/abc255), "Solar Coronal Magnetic Field Extrapolation from Synchronic Data with AI-generated Farside", The Astrophysical Journal Letters, Volume 903, Issue 2, id.L25, 9 pp.
+* AISFMs 3.0: [Kim, Park, Lee et al. (2019)](https://www.nature.com/articles/s41550-019-0711-5), "Solar Farside Magnetograms from Deep Learning Analysis of STEREO/EUVI Data", Nature Astronomy, Volume 3, p. 397-400
+
+
+<br/>
 
 <br/>
