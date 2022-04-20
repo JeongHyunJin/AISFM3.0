@@ -5,13 +5,15 @@
      We have generated the AISFMs by the model from the corresponding Extreme UltraViolet (EUV) observations of STEREO Ahead (A) or Behind (B).
      The orbit of STEREO A & B is at a distance of about 1 AU, and drift away from the Earth at a rate of about 22° per year in opposite directions.
      The AISFMs can offer a complete 360 degree view of the entire Sun with the frontside magnetograms.
-     
-     <br/>
+</p>
+<br/>
+<p align="justify">
      We have improved the AISFMs. We have made an upgraded model including a CC-based objective with additional input data: not only farside STEREO EUV images but also frontside data pairs of SDO/AIA EUV images and HMI magnetograms as reference information.
      We expect that the frontside data pairs provide the historic information of magnetic field polarity distributions.
      More detailed information of our improved AISFMs can be found in our publications.
-     
-     <br/>
+</p>
+<br/>
+<p align="justify">
      The data products are produced by Sun and Space Weather Laboratory (SSWL) at Kyung Hee University (KHU) and released by Korea Astronomy and Space Science Institute (KASI).
      The AISFMs 3.0 are publicaly available at Korean Data Center (KDC) for SDO page.
 </p>
