@@ -95,7 +95,6 @@ The following shows how to download the AISFMs from the [KDC for SDO](http://sdo
 
 <br/>
 
-
 ## Deep Learning Model
 
 We used *Pix2PixCC* model to generate the AISFMs 3.0, and the codes are available at https://github.com/JeongHyunJin/Pix2PixCC. <br/>
