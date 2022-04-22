@@ -19,6 +19,8 @@
 
 * [KDC for SDO](http://sdo.kasi.re.kr/)
 * [Where is STEREO?](https://stereo-ssc.nascom.nasa.gov/cgi-bin/make_where_gif) 
+* [Solar TErrestrial RElations Observatory (STEREO)](https://www.nasa.gov/mission_pages/stereo/sun/index.html)
+* [Solar Dynamics Observatory (SDO)](https://sdo.gsfc.nasa.gov/mission/)
 
 <br/>
 
