@@ -7,7 +7,7 @@
      The AISFMs can offer a complete 360 degree view of the entire Sun with the frontside magnetograms.
 </p>
 <p align="justify">
-     We have made an upgraded model including a CC-based objective with additional input data: not only farside STEREO EUV images but also frontside data pairs of SDO/AIA EUV images and HMI magnetograms as reference information.
+     We have made an upgraded model including a CC-based objective with additional input data: not only the farside STEREO EUV images but also the frontside data pairs of SDO/AIA EUV images and HMI magnetograms as reference information.
      We expect that the frontside data pairs provide the historic information of magnetic field polarity distributions.
      More detailed information of our improved AISFMs can be found in our publications.
 </p>
