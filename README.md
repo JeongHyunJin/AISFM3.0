@@ -113,7 +113,7 @@ We trained the model as below:
 
 <br/>
 
-We generate AISFMs by the tranined model as below:
+We generated the AISFMs by the tranined model as below:
 
       python pix2pixCC_Test.py \
       --dataset_name 'aisfm_v3' \
