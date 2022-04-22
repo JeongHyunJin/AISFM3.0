@@ -57,19 +57,19 @@ When you use our AISFMs in your study, please consider citing our paper.
 
 <br/>
 
-* The <code>*Visualizations_of_AISFMs.ipynb*</code> shows how to open and plot the AISFM data. 
+* The <code>*Ex1_Visualizations_of_AISFMs.ipynb*</code> shows how to open and plot the AISFM data. 
 <br/>
 
-* [TBD] The <code>*Coordinates_of_AISFMs.ipynb*</code> shows how to get locations of the STEREOs from the corresponding AISFM data.
+* The <code>*Ex2_Coordinates_of_AISFMs.ipynb*</code> shows how to get locations of the STEREOs from the corresponding AISFM data.
 <br/>
 
-* [TBD] The <code>*Reprojections_of_AISFMs.ipynb*</code> shows how you can reproject AISFMs to the view from different observers. 
+* The <code>*Ex3_Reprojections_of_AISFMs.ipynb*</code> shows how you can reproject AISFMs to the view from different observers. 
 <br/>
 
-* [TBD] The <code>*Observations_of_AISFMs.ipynb*</code> shows how to check model inputs from the corresponding AISFM data.
+* The <code>*Ex4_Observations_of_AISFMs.ipynb*</code> shows how to check model inputs from the corresponding AISFM data.
 <br/>
 
-* [TBD] The <code>*STEREO_data_with_poor_quality.ipynb*</code> shows examples of STEREO/EUVI images with poor quality.  
+* The <code>*Ex5_STEREO_data_with_poor_quality.ipynb*</code> shows examples of STEREO/EUVI images with poor quality.  
 <br/>
 
 <br/>
