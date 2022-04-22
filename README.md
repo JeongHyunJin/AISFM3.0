@@ -58,7 +58,7 @@ When you use our AISFMs in your study, please consider citing our paper.
 * The <code>*Visualizations_of_AISFMs.ipynb*</code> shows how to open and plot the AISFM data. 
 <br/>
 
-* [TBD] The <code>*Coordinates_of_AISFMs.ipynb*</code> shows how to get location of the STEREO from the corresponding AISFM data.
+* [TBD] The <code>*Coordinates_of_AISFMs.ipynb*</code> shows how to get locations of the STEREOs from the corresponding AISFM data.
 <br/>
 
 * [TBD] The <code>*Reprojections_of_AISFMs.ipynb*</code> shows how you can reproject AISFMs to the view from different observers. 
