@@ -28,26 +28,6 @@
 
 <br/>
 
-## Citation
-
-If you use the AISFMs in your study, please consider citing our paper.
-
-* AISFMs 3.0: Jeong et al. (2022)
-
-      TBD
-
-<br/>
-
-* AISFMs 2.0: [Jeong et al. (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/abc255), "Solar Coronal Magnetic Field Extrapolation from Synchronic Data with AI-generated Farside", The Astrophysical Journal Letters, Volume 903, Issue 2, id.L25, 9 pp.
-* AISFMs 1.0: [Kim, Park, Lee et al. (2019)](https://www.nature.com/articles/s41550-019-0711-5), "Solar Farside Magnetograms from Deep Learning Analysis of STEREO/EUVI Data", Nature Astronomy, Volume 3, p. 397-400
-
-
-<br/>
-
-------------
-
-<br/>
-
 ## Example Gallery
 
 <p align="justify">
@@ -90,6 +70,26 @@ The following shows how to download the AISFMs from the [KDC for SDO](http://sdo
 <br/>
 
 <img src="https://user-images.githubusercontent.com/68056295/164351103-c1db9fb7-a90b-4bad-98ed-47620cec7326.png" width="70%" height="70%"></center>
+
+<br/>
+
+------------
+
+<br/>
+
+## Citation
+
+If you use the AISFMs in your study, please consider citing our paper.
+
+* AISFMs 3.0: Jeong et al. (2022)
+
+      TBD
+
+<br/>
+
+* AISFMs 2.0: [Jeong et al. (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/abc255), "Solar Coronal Magnetic Field Extrapolation from Synchronic Data with AI-generated Farside", The Astrophysical Journal Letters, Volume 903, Issue 2, id.L25, 9 pp.
+* AISFMs 1.0: [Kim, Park, Lee et al. (2019)](https://www.nature.com/articles/s41550-019-0711-5), "Solar Farside Magnetograms from Deep Learning Analysis of STEREO/EUVI Data", Nature Astronomy, Volume 3, p. 397-400
+
 
 <br/>
 
