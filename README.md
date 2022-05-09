@@ -14,7 +14,7 @@
 <p align="justify">
      We have made an upgraded model including a CC-based objective with additional input data: not only the farside STEREO EUV images but also the frontside data pairs of SDO EUV images and magnetograms as reference information.
      We expect that the frontside data pairs provide the historic information of magnetic field polarity distributions.
-     More detailed information of our improved AISFMs can be found in our publications.
+     More detailed information of the AISFMs can be found in our publications.
 </p>
 <p align="justify">
      The AI-generated data have produced by Sun and Space Weather Laboratory (SSWL) at Kyung Hee University (KHU) and released by Korea Astronomy and Space Science Institute (KASI).
