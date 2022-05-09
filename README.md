@@ -30,7 +30,7 @@
 
 ## Citation
 
-When you use our AISFMs in your study, please consider citing our paper.
+If you use the AISFMs in your study, please consider citing our paper.
 
 * AISFMs 3.0: Jeong et al. (2022)
 
