@@ -17,7 +17,7 @@
      More detailed information of the AISFMs can be found in our publications.
 </p>
 <p align="justify">
-     The AI-generated data have produced by Sun and Space Weather Laboratory (SSWL) at Kyung Hee University (KHU) and released by Korea Astronomy and Space Science Institute (KASI).
+     The AI-generated data have produced by the Sun and Space Weather Laboratory (SSWL) at Kyung Hee University (KHU) and released by the Korea Astronomy and Space Science Institute (KASI).
      The AISFMs 3.0 are publicaly available at Korean Data Center (KDC) for SDO website.
 </p>
 <br/>
