@@ -83,7 +83,7 @@ If you use the AISFMs in your study, please consider citing our paper.
 
 * AISFMs 3.0: Jeong et al. (2022)
 
-      TBD
+      TBD - Submitted to the ApJ Supplements (Apr 2022)
 
 <br/>
 
