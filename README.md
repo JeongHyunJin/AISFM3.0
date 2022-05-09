@@ -59,7 +59,7 @@
 <br/>
 
 
-## Acquirring AISFM
+## Acquirring the AISFMs
 
 The following shows how to download the AISFMs from the [KDC for SDO](http://sdo.kasi.re.kr/) website.
 
