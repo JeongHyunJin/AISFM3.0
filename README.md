@@ -114,8 +114,8 @@ We trained the model as below:
       --input_ch 7 --target_ch 1 --ch_balance 1.5 \
       --n_downsample 5 --n_gf 40 --n_df 40 \
       --padding_size 62 --display_scale 150 \
-      --input_dir_train '../Datasets/Train_data/Train_input' \
-      --target_dir_train '../Datasets/Train_data/Train_output' \
+      --input_dir_train '../SDO_Datasets/Training_data/Inputs' \
+      --target_dir_train '../SDO_Datasets/Training_data/Outputs' \
       --n_epochs 150 --save_freq 10000 --display_freq 5000
 
 <br/>
@@ -127,7 +127,7 @@ We generated the AISFMs by the tranined model as below:
       --data_format_input 'fits' --data_format_target 'fits' \
       --input_ch 7 --target_ch 1 \
       --n_downsample 5 --n_gf 40 \
-      --input_dir_test '../STEREO_Datasets' \
+      --input_dir_test '../STEREO_Datasets/Inputs' \
       --iteration 760000
 
 <br/>
