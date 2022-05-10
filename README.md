@@ -12,9 +12,9 @@
      Our AISFMs can offer a complete 360 degree view of the entire Sun with the frontside magnetograms.
 </p>
 <p align="justify">
-     We have made an upgraded model including a CC-based objective with additional input data: not only the farside STEREO EUV images but also the frontside data pairs of SDO EUV images and magnetograms as reference information.
+     We have made an upgraded model including a correlation coefficient based objective with additional input data: not only the farside STEREO EUV images but also the frontside data pairs of SDO EUV images and magnetograms as reference information.
      We expect that the frontside data pairs provide the historic information of magnetic field polarity distributions.
-     More detailed information of the AISFMs can be found in our publications.
+     More detailed information can be found in our publications.
 </p>
 <p align="justify">
      The AI-generated data have produced by the Sun and Space Weather Laboratory (SSWL) at Kyung Hee University (KHU) and released by the Korea Astronomy and Space Science Institute (KASI).
@@ -133,3 +133,15 @@ We generated the AISFMs by the tranined model as below:
 <br/>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/68056295/167527820-dd41b2d9-c7a1-4bea-ae05-ff07c396148b.png" width="70%" height="70%"></center>
+
+We generate solar farside magnetograms from the STEREO EUV images and the frontside reference data pairs by the Pix2PixCC model.
+The EUV passbands of the STEREO are 30.4, 19.5, and 17.1 nm.
+The reference data pairs are SDO EUV images and magnetograms which are selected by considering the separation angle between the STEREO and the SDO.
+When we train and evaluate the model with the frontside datasets, the reference pairs are replaced by the pairs that were observed one solar rotation (27.3 days) before.
+
+<br/>
+
+<br/>
+
