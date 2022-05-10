@@ -139,10 +139,13 @@ We generated the AISFMs by the tranined model as below:
 <img src="https://user-images.githubusercontent.com/68056295/167527820-dd41b2d9-c7a1-4bea-ae05-ff07c396148b.png" width="85%" height="85%"></center>
 </p>
 
-We generate solar farside magnetograms from the STEREO EUV images and the frontside reference data pairs by the Pix2PixCC model.
-The EUV passbands of the STEREO are 30.4, 19.5, and 17.1 nm.
-The reference data pairs are SDO EUV images and magnetograms which are selected by considering the separation angle between the STEREO and the SDO.
-When we train and evaluate the model with the frontside datasets, the reference pairs are replaced by the pairs that were observed one solar rotation (27.3 days) before.
+<p align="justify">
+     We generate solar farside magnetograms from the STEREO EUV images and the frontside reference data pairs by the Pix2PixCC model.
+     The EUV passbands of the STEREO are 30.4, 19.5, and 17.1 nm.
+     The reference data pairs are SDO EUV images and magnetograms which are selected by considering the separation angle between the STEREO and the SDO.
+     When we train and evaluate the model with the frontside datasets, the reference pairs are replaced by the pairs that were observed one solar rotation (27.3 days) before.
+</p>
+
 
 <br/>
 
