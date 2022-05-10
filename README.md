@@ -84,9 +84,9 @@ The following shows how to download the AISFMs from the [KDC for SDO (http://sdo
 
 ## Citation
 
-If you use the AISFMs in your study, please consider citing our paper.
+If you use the AISFMs in your study, please consider citing our paper ([arXiv preprint](https://arxiv.org/abs/2204.12068)).
 
-* AISFMs 3.0: Jeong et al. (2022) ([arXiv preprint](https://arxiv.org/abs/2204.12068))
+* AISFMs 3.0: Jeong et al. (2022)
 
       TBD - Submitted to the ApJ Supplements (Apr 2022)
 
