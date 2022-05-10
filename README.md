@@ -136,7 +136,7 @@ We generated the AISFMs by the tranined model as below:
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/68056295/167527820-dd41b2d9-c7a1-4bea-ae05-ff07c396148b.png" width="95%" height="95%"></center>
+<img src="https://user-images.githubusercontent.com/68056295/167527820-dd41b2d9-c7a1-4bea-ae05-ff07c396148b.png" width="85%" height="85%"></center>
 </p>
 
 We generate solar farside magnetograms from the STEREO EUV images and the frontside reference data pairs by the Pix2PixCC model.
