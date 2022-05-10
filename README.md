@@ -134,7 +134,10 @@ We generated the AISFMs by the tranined model as below:
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/68056295/167527820-dd41b2d9-c7a1-4bea-ae05-ff07c396148b.png" width="70%" height="70%"></center>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68056295/167527820-dd41b2d9-c7a1-4bea-ae05-ff07c396148b.png" width="95%" height="95%"></center>
+</p>
 
 We generate solar farside magnetograms from the STEREO EUV images and the frontside reference data pairs by the Pix2PixCC model.
 The EUV passbands of the STEREO are 30.4, 19.5, and 17.1 nm.
