@@ -82,7 +82,8 @@ The following shows how to download the AISFMs from the [KDC for SDO (http://sdo
 
 <br/>
 
-## Citation
+Citation
+===============
 
 If you use the AISFMs in your study, please consider citing our paper ([arXiv preprint](https://arxiv.org/abs/2204.12068)).
 
