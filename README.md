@@ -112,6 +112,13 @@ We trained the model as below:
       python pix2pixCC_Train.py \
       --dataset_name 'aisfm_v3' \
       --data_format_input 'fits' --data_format_target 'fits' \
+      --logscale_input True \
+      --saturation_lower_limit_input 1 \
+      --saturation_upper_limit_input 200 \
+      --saturation_lower_limit_target -1500 \
+      --saturation_upper_limit_target 1500 \
+      --saturation_clip_input True \ 
+      --saturation_clip_target False \
       --input_ch 7 --target_ch 1 --ch_balance 1.5 \
       --n_downsample 5 --n_gf 40 --n_df 40 \
       --padding_size 62 --display_scale 150 \
@@ -126,6 +133,13 @@ We generated the AISFMs by the tranined model as below:
       python pix2pixCC_Test.py \
       --dataset_name 'aisfm_v3' \
       --data_format_input 'fits' --data_format_target 'fits' \
+      --logscale_input True \
+      --saturation_lower_limit_input 1 \
+      --saturation_upper_limit_input 200 \
+      --saturation_lower_limit_target -1500 \
+      --saturation_upper_limit_target 1500 \
+      --saturation_clip_input True \ 
+      --saturation_clip_target False \
       --input_ch 7 --target_ch 1 \
       --n_downsample 5 --n_gf 40 \
       --input_dir_test '../STEREO_Datasets/Test/Inputs' \
