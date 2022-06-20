@@ -96,6 +96,7 @@ When you use the AISFMs in your study, please consider citing our paper ([arXiv 
 * AISFMs 2.0: [Jeong et al. (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/abc255), "Solar Coronal Magnetic Field Extrapolation from Synchronic Data with AI-generated Farside", The Astrophysical Journal Letters, Volume 903, Issue 2, id.L25, 9 pp.
 * AISFMs 1.0: [Kim, Park, Lee et al. (2019)](https://www.nature.com/articles/s41550-019-0711-5), "Solar Farside Magnetograms from Deep Learning Analysis of STEREO/EUVI Data", Nature Astronomy, Volume 3, p. 397-400
 
+We released this repository and published it on Zenodo as [![DOI](https://zenodo.org/badge/392888506.svg)](https://zenodo.org/badge/latestdoi/392888506)
 
 <br/>
 
