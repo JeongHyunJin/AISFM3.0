@@ -89,16 +89,16 @@ When you use the AISFMs in your study, please consider citing our [paper](https:
 
 * AISFMs 3.0: Jeong et al. (2022)
 
-     @article{jeong2022improved,
-     title={Improved AI-generated Solar Farside Magnetograms by STEREO and SDO Data Sets and Their Release},
-     author={Jeong, Hyun-Jin and Moon, Yong-Jae and Park, Eunsu and Lee, Harim and Baek, Ji-Hye},
-     journal={The Astrophysical Journal Supplement Series},
-     volume={262},
-     number={2},
-     pages={50},
-     year={2022},
-     publisher={IOP Publishing}
-     }
+      @article{jeong2022improved,
+      title={Improved AI-generated Solar Farside Magnetograms by STEREO and SDO Data Sets and Their Release},
+      author={Jeong, Hyun-Jin and Moon, Yong-Jae and Park, Eunsu and Lee, Harim and Baek, Ji-Hye},
+      journal={The Astrophysical Journal Supplement Series},
+      volume={262},
+      number={2},
+      pages={50},
+      year={2022},
+      publisher={IOP Publishing}
+      }
 
 
 
