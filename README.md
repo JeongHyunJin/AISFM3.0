@@ -85,11 +85,22 @@ The following shows how to download the AISFMs from the [KDC for SDO (http://sdo
 Citation
 ===============
 
-When you use the AISFMs in your study, please consider citing our paper ([arXiv preprint](https://arxiv.org/abs/2204.12068)).
+When you use the AISFMs in your study, please consider citing our [paper](https://iopscience.iop.org/article/10.3847/1538-4365/ac8d66) ([arXiv preprint](https://arxiv.org/abs/2204.12068)).
 
 * AISFMs 3.0: Jeong et al. (2022)
 
-      TBD - Submitted to the ApJ Supplements (Apr 2022)
+    @article{jeong2022improved,
+    title={Improved AI-generated Solar Farside Magnetograms by STEREO and SDO Data Sets and Their Release},
+    author={Jeong, Hyun-Jin and Moon, Yong-Jae and Park, Eunsu and Lee, Harim and Baek, Ji-Hye},
+    journal={The Astrophysical Journal Supplement Series},
+    volume={262},
+    number={2},
+    pages={50},
+    year={2022},
+    publisher={IOP Publishing}
+    }
+
+
 
 <br/>
 
